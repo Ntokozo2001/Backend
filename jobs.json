@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Software Engineer",
+        "description": "Develops software applications.",
+        "company": "TechCorp"
+    },
+    {
+        "id": 2,
+        "title": "Data Scientist",
+        "description": "Analyzes data and builds predictive models.",
+        "company": "Data Solutions"
+    },
+    {
+        "id": 3,
+        "title": "Web Developer",
+        "description": "Creates and maintains websites.",
+        "company": "Web Innovations"
+    },
+    {
+        "id": 4,
+        "title": "Product Manager",
+        "description": "Manages product development.",
+        "company": "Product Co"
+    }
+]
